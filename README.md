@@ -68,6 +68,6 @@ PUT http://localhost:8000/movements/validation
 ```
 
 ## Dernière note
-J'ai utilisé la session pour enregistrer les données bien qu'une BDD aurait été plus appropriée. Je me suis dit que cela rendrait le test plus simple à tester.
+J'ai utilisé la session pour enregistrer les données bien qu'une BDD aurait été plus appropriée. Je me suis dit que cela rendrait le test plus simple à tester pour vous.
 
 
